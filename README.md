@@ -14,3 +14,6 @@ English version - 英語版：<br>
 <b>【Tutorial Video - チュートリアル動画】</b>
 <br>
 <a href="https://youtu.be/PHmePSSKD88" title="【現代の魔法】RVC WebUIの使い方入門：オリジナルAIボイスチェンジャーを作ろう（男性・女性の声）RVC WebUI - AI Voice Changer Tutorial | YouTube" rel="noopener nofollow " target="_blank">【現代の魔法】RVC WebUIの使い方入門：オリジナルAIボイスチェンジャーを作ろう（男性・女性の声）RVC WebUI - AI Voice Changer Tutorial | YouTube</a>
+<br><br>
+【公開日】2024年6月28日<br>
+【最終更新】2024年6月29日
