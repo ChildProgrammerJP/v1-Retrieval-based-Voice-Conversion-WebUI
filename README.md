@@ -15,5 +15,5 @@ English version - 英語版：<br>
 <br>
 <a href="https://youtu.be/PHmePSSKD88" title="【現代の魔法】RVC WebUIの使い方入門：オリジナルAIボイスチェンジャーを作ろう（男性・女性の声）RVC WebUI - AI Voice Changer Tutorial | YouTube" rel="noopener nofollow " target="_blank">【現代の魔法】RVC WebUIの使い方入門：オリジナルAIボイスチェンジャーを作ろう（男性・女性の声）RVC WebUI - AI Voice Changer Tutorial | YouTube</a>
 <br><br>
-【公開日】2024年6月28日<br>
-【最終更新】2024年6月29日
+【Release Date - 公開日】June 28, 2024：Repository in use: April 2024 edition - 2024年6月28日（使用中のリポジトリ：2024年4月版）<br>
+【Last Updated - 最終更新】June 28, 2024 - 2024年6月29日
