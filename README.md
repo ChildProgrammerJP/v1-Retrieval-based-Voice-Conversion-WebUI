@@ -24,4 +24,5 @@ June 29, 2024<br>
 2024年6月29日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
-2024年6月29日時点：Google Colaboratoryの課金プランで「学習」「モデル推論」共に可能
+As of June 29, 2024：Both "Train" and "Model Inference" are possible with Google Colaboratory's billing plan.<br>
+（2024年6月29日時点：Google Colaboratoryの課金プランで「学習」「モデル推論」共に可能）
