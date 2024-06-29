@@ -21,4 +21,7 @@ June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br>
 【Last Updated - 最終更新】<br>
 June 29, 2024<br>
-2024年6月29日
+2024年6月29日<br>
+<br>
+【Status of Operation - 稼働状況】<br>
+2024年6月29日時点：Google Colaboratoryの課金プランで「学習」「モデル推論」共に可能
