@@ -1,7 +1,7 @@
 <b>【Classic RVC WebUI - 古典的なRVC WebUI】</b><br>
 This is an archive of the RVC WebUI for using the RVC v1 model version of Retrieval-based-Voice-Conversion-WebUI with Google Colaboratory.<br>
 （RVC v1モデル版のRetrieval-based-Voice-Conversion-WebUIをGoogle Colaboratoryで使うためのRVC WebUIのアーカイブです。）
-<br><br>
+<br><br><br>
 <b>【Tutorial Code - チュートリアルコード】</b>
 <br>
 Japanese version - 日本語版：<br>
@@ -15,7 +15,7 @@ English version - 英語版：<br>
 <b>【Tutorial Video - チュートリアル動画】</b>
 <br>
 <a href="https://youtu.be/PHmePSSKD88" title="【現代の魔法】RVC WebUIの使い方入門：オリジナルAIボイスチェンジャーを作ろう（男性・女性の声）RVC WebUI - AI Voice Changer Tutorial | YouTube" rel="noopener nofollow " target="_blank">【現代の魔法】RVC WebUIの使い方入門：オリジナルAIボイスチェンジャーを作ろう（男性・女性の声）RVC WebUI - AI Voice Changer Tutorial | YouTube</a>
-<br><br>
+<br><br><br>
 【Release Date - 公開日】<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
