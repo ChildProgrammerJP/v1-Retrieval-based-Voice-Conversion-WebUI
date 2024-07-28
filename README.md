@@ -20,9 +20,15 @@ English version - 英語版：<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
 【Last Updated - 最終更新】<br>
-June 29, 2024<br>
-2024年6月29日<br>
+July 29, 2024<br>
+2024年7月28日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
-As of June 29, 2024：Both "Train" and "Model Inference" are possible with Google Colaboratory's billing plan.<br>
-（2024年6月29日時点：Google Colaboratoryの課金プランで「学習」「モデル推論」共に可能）
+・【Active】As of July 29, 2024：Modified tutorial code so that RVC WebUI can be used.
+（【使えます】2024年7月28日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）
+<br><br>
+・【Not available】As of July 25, 2024：There was a problem reported by a viewer of the tutorial video who is unable to use RVC WebUI.<br>
+【（使えません】2024年7月25日時点：チュートリアル動画の視聴者の方から「RVC WebUIが使えなくなった」と問題報告あり）
+<br><br>
+・【Active】As of June 29, 2024：Both "Train" and "Model Inference" are possible with Google Colaboratory's billing plan.<br>
+（【使えます】2024年6月29日時点：Google Colaboratoryの課金プランで「学習」「モデル推論」共に可能）
