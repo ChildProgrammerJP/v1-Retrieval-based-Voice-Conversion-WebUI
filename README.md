@@ -20,7 +20,7 @@ English version - 英語版：<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
 【Last Updated - 最終更新】<br>
-July 29, 2024<br>
+July 28, 2024<br>
 2024年7月28日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
