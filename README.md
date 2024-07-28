@@ -24,7 +24,7 @@ July 28, 2024<br>
 2024年7月28日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
-・【Active】As of July 29, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
+・【Active】As of July 28, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
 （【使えます】2024年7月28日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）
 <br><br>
 ・【Not available】As of July 25, 2024：There was a problem reported by a viewer of the tutorial video who is unable to use RVC WebUI.<br>
