@@ -20,10 +20,16 @@ English version - 英語版：<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
 【Last Updated - 最終更新】<br>
-July 28, 2024<br>
-2024年7月28日<br>
+September 6, 2024<br>
+2024年9月6日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
+・【Active】As of September 6, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
+（【使えます】2024年9月6日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）
+<br><br>
+・【Not available】As of August 31, 2024：There was a problem reported by a viewer of the tutorial video who is unable to use RVC WebUI.<br>
+（【使えません】2024年8月31日時点：チュートリアル動画の視聴者の方から「RVC WebUIが使えなくなった」と問題報告あり）
+<br><br>
 ・【Active】As of July 28, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
 （【使えます】2024年7月28日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）
 <br><br>
