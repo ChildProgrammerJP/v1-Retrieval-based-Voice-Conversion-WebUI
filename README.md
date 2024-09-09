@@ -33,14 +33,11 @@ According to information given to us by viewers of the tutorial video, it is rec
 ＊ Steps: Process data → Feature extraction → Train Model<br>
 （＊手順：Process data → Feature extraction → Train Model）<br>
 （と学習ができるとのことでした。）<br><br>
-
 I have also received report of being able to change voices by<br>
 （その他にも、推論の際には）<br><br>
-
 <b>・Using a one-minute audio file</b><br>
 （<b>・1分程度の音声ファイルを使う</b>）
 <br><br>
-
 for inference.<br>
 （とボイスチェンジできたという報告もいただいています。 ）
 <br><br>
