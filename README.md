@@ -25,7 +25,24 @@ September 6, 2024<br>
 <br>
 【Status of Operation - 稼働状況】<br>
 ・【Active】As of September 6, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
-（【使えます】2024年9月6日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）
+（【使えます】2024年9月6日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+According to information given to us by viewers of the tutorial video, it is recommended that the following steps be performed instead of using <b>“One-click Training”</b> when training.<br>
+（学習の際には、「<b>One-click Training</b>」ではなく）<br><br>
+<b>・The process proceeds individually by clicking each processing button.</b><br>
+（<b>・各処理ボタンで個別に処理を進める</b>）<br>
+＊ Steps: Process data → Feature extraction → Train Model<br>
+（＊手順：Process data → Feature extraction → Train Model）<br>
+（と学習ができるとのことでした。）<br><br>
+
+I have also received report of being able to change voices by<br>
+（その他にも、推論の際には）<br><br>
+
+<b>・Using a one-minute audio file</b><br>
+（<b>・1分程度の音声ファイルを使う</b>）
+<br><br>
+
+for inference.<br>
+（とボイスチェンジできたという報告もいただいています。 ）
 <br><br>
 ・【Not available】As of August 31, 2024：There was a problem reported by a viewer of the tutorial video who is unable to use RVC WebUI.<br>
 （【使えません】2024年8月31日時点：チュートリアル動画の視聴者の方から「RVC WebUIが使えなくなった」と問題報告あり）
