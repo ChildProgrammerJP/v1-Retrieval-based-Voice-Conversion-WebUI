@@ -26,6 +26,7 @@ September 6, 2024<br>
 【Status of Operation - 稼働状況】<br>
 ・【Active】As of September 6, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
 （【使えます】2024年9月6日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+
 According to information given to us by viewers of the tutorial video, it is recommended that the following steps be performed instead of using <b>“One-click Training”</b> when training.<br>
 （学習の際には、「<b>One-click Training</b>」ではなく）<br><br>
 <b>・The process proceeds individually by clicking each processing button.</b><br>
