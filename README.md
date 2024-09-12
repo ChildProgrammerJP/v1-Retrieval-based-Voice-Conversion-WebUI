@@ -46,7 +46,7 @@ for inference.<br>
 （2024年9月12日時点）<br>
 I have also received reports that even if an error occurs in **“Train model”**, if you ignore the error and press **“Train feature index”**, a **“Training model”** (pth file) is created and could be used in **“Model Inference”** for inference.<br>
 （「**Train model**」でエラーになっても、そのまま無視して「<b>Train feature index</b>」を押すと「<b>学習モデル</b>」（pthファイル）が作成され、推論の際に「<b>Model Inference</b>」で使用することもできたといった報告もいただいています）<br><br>
-I also received a report of a case in which a comparison of the v1 model-compatible version and the v2 model-compatible version showed that the v1 model-compatible tutorial code was able to perform voice changes with a quality that felt **“more like the real voice”**.
+I also received a report of a case in which a comparison of the v1 model-compatible version and the v2 model-compatible version showed that the v1 model-compatible tutorial code was able to perform voice changes with a quality that felt <b>“more like the real voice”</b>.
 （また、v1モデル対応版とv2モデル対応版を比較したところ、v1モデル対応版のこのチュートリアルコードの方が「<b>似ている</b>」と感じるクオリティでボイスチェンジができたという事例の報告もいただきました）
 <br><br>
 ・【Not available】As of August 31, 2024：There was a problem reported by a viewer of the tutorial video who is unable to use RVC WebUI.<br>
