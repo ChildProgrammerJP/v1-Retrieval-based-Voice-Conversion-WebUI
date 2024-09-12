@@ -20,8 +20,8 @@ English version - 英語版：<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
 【Last Updated - 最終更新】<br>
-September 9, 2024<br>
-2024年9月9日<br>
+September 12, 2024<br>
+2024年9月12日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
 ・【Active】As of September 6, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
@@ -41,6 +41,13 @@ I have also received report of being able to change voices by<br>
 <br><br>
 for inference.<br>
 （とボイスチェンジできたという報告もいただいています。 ）
+<br><br>
+**→ As of September 12, 2024:**<br>
+（2024年9月12日時点）<br>
+I have also received reports that even if an error occurs in **“Train model”**, if you ignore the error and press **“Train feature index”**, a **“Training model”** (pth file) is created and could be used in **“Model Inference”** for inference.<br>
+（「**Train model**」でエラーになっても、そのまま無視して「<b>Train feature index</b>」を押すと「<b>学習モデル</b>」（pthファイル）が作成され、推論の際に「<b>Model Inference</b>」で使用することもできたといった報告もいただいています）<br><br>
+I also received a report of a case in which a comparison of the v1 model-compatible version and the v2 model-compatible version showed that the v1 model-compatible tutorial code was able to perform voice changes with a quality that felt **“more like the real voice”**.
+（また、v1モデル対応版とv2モデル対応版を比較したところ、v1モデル対応版のこのチュートリアルコードの方が「<b>似ている</b>」と感じるクオリティでボイスチェンジができたという事例の報告もいただきました）
 <br><br>
 ・【Not available】As of August 31, 2024：There was a problem reported by a viewer of the tutorial video who is unable to use RVC WebUI.<br>
 （【使えません】2024年8月31日時点：チュートリアル動画の視聴者の方から「RVC WebUIが使えなくなった」と問題報告あり）
