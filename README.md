@@ -20,10 +20,16 @@ English version - 英語版：<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
 【Last Updated - 最終更新】<br>
-September 12, 2024<br>
-2024年9月12日<br>
+January 14, 2025<br>
+2025年1月14日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
+・【Active】As of January 14, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
+（【使えます】2025年1月14日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+
+However, the same defects remain as of September 6, 2024.<br>
+ただし、2024年9月6日時点と同様の不具合は残存しています。<br><br>
+
 ・【Active】As of September 6, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
 （【使えます】2024年9月6日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
 
@@ -33,7 +39,10 @@ According to information given to us by viewers of the tutorial video, it is rec
 （<b>・各処理ボタンで個別に処理を進める</b>）<br>
 ＊ Steps: Process data → Feature extraction → Train Model<br>
 （＊手順：Process data → Feature extraction → Train Model）<br>
-（と学習ができるとのことでした。）<br><br>
+（と学習ができるとのことでした。）<br>
+＊ Index files do not appear to be output.<br>
+（＊indexファイルjは出力されないようです。）
+<br><br>
 I have also received report of being able to change voices by<br>
 （その他にも、推論の際には）<br><br>
 <b>・Using a one-minute audio file</b><br>
