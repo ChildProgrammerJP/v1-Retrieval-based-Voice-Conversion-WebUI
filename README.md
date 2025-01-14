@@ -41,7 +41,7 @@ According to information given to us by viewers of the tutorial video, it is rec
 （＊手順：Process data → Feature extraction → Train Model）<br>
 （と学習ができるとのことでした。）<br>
 ＊ Index files do not appear to be output.<br>
-（＊indexファイルjは出力されないようです。）
+（＊indexファイルは出力されないようです。）
 <br><br>
 I have also received report of being able to change voices by<br>
 （その他にも、推論の際には）<br><br>
