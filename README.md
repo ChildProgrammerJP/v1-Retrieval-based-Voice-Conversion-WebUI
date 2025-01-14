@@ -27,6 +27,10 @@ January 14, 2025<br>
 ・【Active】As of January 14, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
 （【使えます】2025年1月14日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
 
+Downgraded matplotlib (from 3.10.0 to 3.9.4) because there seemed to be an error related to matplotlib (“AttributeError: ‘FigureCanvasAgg’ object has no attribute ‘tostring_rgb’”).<br>
+（matplotlibにまつわるエラー（「AttributeError: 'FigureCanvasAgg' object has no attribute 'tostring_rgb'」）が出るようでしたのでmatplotlibのダウングレード（3.10.0→3.9.4）しました。）<br>
+I downgraded matplotlib (from 3.10.0 to 3.9.4). And other dependencies have been fixed.<br>
+（また、その他の依存関係の修正をしておきました。）<br>
 However, the same defects remain as of September 6, 2024.<br>
 （ただし、2024年9月6日時点と同様の不具合は残存しています。）<br><br>
 
