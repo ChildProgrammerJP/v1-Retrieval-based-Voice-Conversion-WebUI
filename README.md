@@ -28,7 +28,7 @@ January 14, 2025<br>
 （【使えます】2025年1月14日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
 
 However, the same defects remain as of September 6, 2024.<br>
-ただし、2024年9月6日時点と同様の不具合は残存しています。<br><br>
+（ただし、2024年9月6日時点と同様の不具合は残存しています。）<br><br>
 
 ・【Active】As of September 6, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
 （【使えます】2024年9月6日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
