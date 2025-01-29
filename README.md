@@ -20,10 +20,18 @@ English version - 英語版：<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
 【Last Updated - 最終更新】<br>
-January 14, 2025<br>
-2025年1月14日<br>
+January 30, 2025<br>
+2025年1月30日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
+・【Active】As of January 30, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
+（【使えます】2025年1月30日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+
+I have corrected the dependencies of “faiss-cpu” and “blosc2”.
+（「faiss-cpu」「blosc2」の依存関係の修正をしておきました。）
+However, the same defects remain as of September 6, 2024.<br>
+（ただし、2024年9月6日時点と同様の不具合は残存しています。）<br><br>
+
 ・【Active】As of January 14, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
 （【使えます】2025年1月14日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
 
