@@ -28,7 +28,7 @@ January 30, 2025<br>
 （【使えます】2025年1月30日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
 
 I have corrected the dependencies of “faiss-cpu” and “blosc2”.<br>
-（「faiss-cpu」「blosc2」の依存関係の修正をしておきました。）<br>
+（「faiss-cpu」「blosc2」「dopamine-rl」の依存関係の修正をしておきました。）<br>
 However, the same defects remain as of September 6, 2024.<br>
 （ただし、2024年9月6日時点と同様の不具合は残存しています。）<br><br>
 
