@@ -20,17 +20,23 @@ English version - 英語版：<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
 【Last Updated - 最終更新】<br>
-January 30, 2025<br>
-2025年1月30日<br>
+January 31, 2025<br>
+2025年1月31日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
-・【Active】As of January 30, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
-（【使えます】2025年1月30日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+・【Active】As of January 31, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
+（【使えます】2025年1月31日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
 
-I have corrected the dependencies of “faiss-cpu” and “blosc2”, "dopamine-rl".<br>
-（「faiss-cpu」「blosc2」「dopamine-rl」の依存関係の修正をしておきました。）<br>
+I have corrected the dependencies of “fairseq”.<br>
+（「fairseq」の依存関係の修正をしておきました。）<br>
 However, the same defects remain as of September 6, 2024.<br>
 （ただし、2024年9月6日時点と同様の不具合は残存しています。）<br><br>
+
+・【Not available】As of January 30, 2025：Modified tutorial code.<br>
+（【使えません】2025年1月30日時点：チュートリアルコードを修正しました）<br>
+
+I have corrected the dependencies of “faiss-cpu” and “blosc2”, "dopamine-rl".<br>
+（「faiss-cpu」「blosc2」「dopamine-rl」の依存関係の修正をしておきました。）
 
 ・【Active】As of January 14, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
 （【使えます】2025年1月14日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
