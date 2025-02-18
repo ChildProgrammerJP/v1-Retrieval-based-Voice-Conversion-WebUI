@@ -24,8 +24,10 @@ February 18, 2025<br>
 2025年2月18日<br>
 <br>
 【Status of Operation - 稼働状況】<br>
-・【Active】As of February 18, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
-（【使えます】2025年2月18日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました。）<br>
+・【Defective】As of February 18, 2025：I've modified the code to avoid conflicting dependencies.<br>
+（【不完全】2025年2月18日時点：依存関係が競合しないようにコードを修正しておきました。）<br>
+I have received report that Train is possible but Model Inference is not.<br>
+（「学習」は可能だが「モデル推論」ができないという報告をいただいています。）<br>
 
 I have corrected the dependencies of “Numpy”.<br>
 （「Numpy」の依存関係の修正をしておきました。）<br>
