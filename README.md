@@ -25,7 +25,7 @@ February 18, 2025<br>
 <br>
 【Status of Operation - 稼働状況】<br>
 ・【Active】As of February 18, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
-（【使えます】2025年2月18日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+（【使えます】2025年2月18日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました。）<br>
 
 I have corrected the dependencies of “Numpy”.<br>
 （「Numpy」の依存関係の修正をしておきました。）<br>
@@ -34,7 +34,7 @@ However, the same defects remain as of September 6, 2024.<br>
 <br>
 【Status of Operation - 稼働状況】<br>
 ・【Active】As of January 31, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
-（【使えます】2025年1月31日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+（【使えます】2025年1月31日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました。）<br>
 
 I have corrected the dependencies of “fairseq”.<br>
 （「fairseq」の依存関係の修正をしておきました。）<br>
@@ -42,12 +42,12 @@ However, the same defects remain as of September 6, 2024.<br>
 （ただし、2024年9月6日時点と同様の不具合は残存しています。）<br><br>
 
 ・【Not available】As of January 30, 2025：Modified tutorial code.<br>
-（【使えません】2025年1月30日時点：チュートリアルコードを修正しました）<br>
+（【使えません】2025年1月30日時点：チュートリアルコードを修正しました。）<br>
 I have corrected the dependencies of “faiss-cpu” and “blosc2”, "dopamine-rl".<br>
 （「faiss-cpu」「blosc2」「dopamine-rl」の依存関係の修正をしておきました。）<br><br>
 
 ・【Active】As of January 14, 2025：Modified tutorial code so that RVC WebUI can be used.<br>
-（【使えます】2025年1月14日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+（【使えます】2025年1月14日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました。）<br>
 
 Downgraded matplotlib (from 3.10.0 to 3.9.4) because there seemed to be an error related to matplotlib (“AttributeError: ‘FigureCanvasAgg’ object has no attribute ‘tostring_rgb’”).<br>
 （matplotlibにまつわるエラー「AttributeError: 'FigureCanvasAgg' object has no attribute 'tostring_rgb'」が出るようでしたので matplotlib==3.10.0 から matplotlib==3.9.4 へダウングレードしました。）<br>
@@ -57,7 +57,7 @@ However, the same defects remain as of September 6, 2024.<br>
 （ただし、2024年9月6日時点と同様の不具合は残存しています。）<br><br>
 
 ・【Active】As of September 6, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
-（【使えます】2024年9月6日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）<br>
+（【使えます】2024年9月6日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました。）<br>
 
 According to information given to us by viewers of the tutorial video, it is recommended that the following steps be performed instead of using <b>“One-click Training”</b> when training.<br>
 （学習の際には、「<b>One-click Training</b>」ではなく）<br><br>
@@ -80,18 +80,18 @@ for inference.<br>
 **→ As of September 12, 2024:**<br>
 （2024年9月12日時点）<br>
 I have also received reports that even if an error occurs in **“Train model”**, if you ignore the error and press **“Train feature index”**, a **“Training model”** (pth file) is created and could be used in **“Model Inference”** for inference.<br>
-（「**Train model**」でエラーになっても、そのまま無視して「<b>Train feature index</b>」を押すと「<b>学習モデル</b>」（pthファイル）が作成され、推論の際に「<b>Model Inference</b>」で使用することもできたといった報告もいただいています）<br><br>
+（「**Train model**」でエラーになっても、そのまま無視して「<b>Train feature index</b>」を押すと「<b>学習モデル</b>」（pthファイル）が作成され、推論の際に「<b>Model Inference</b>」で使用することもできたといった報告もいただいています。）<br><br>
 I also received a report of a case in which a comparison of the v1 model-compatible version and the v2 model-compatible version showed that the v1 model-compatible tutorial code was able to perform voice changes with a quality that felt <b>“more like the real voice”</b>.<br>
-（また、v1モデル対応版とv2モデル対応版を比較したところ、v1モデル対応版のこのチュートリアルコードの方が「<b>似ている</b>」と感じるクオリティでボイスチェンジができたという事例の報告もいただきました）
+（また、v1モデル対応版とv2モデル対応版を比較したところ、v1モデル対応版のこのチュートリアルコードの方が「<b>似ている</b>」と感じるクオリティでボイスチェンジができたという事例の報告もいただきました。）
 <br><br>
 ・【Not available】As of August 31, 2024：There was a problem reported by a viewer of the tutorial video who is unable to use RVC WebUI.<br>
-（【使えません】2024年8月31日時点：チュートリアル動画の視聴者の方から「RVC WebUIが使えなくなった」と問題報告あり）
+（【使えません】2024年8月31日時点：チュートリアル動画の視聴者の方から「RVC WebUIが使えなくなった」と問題報告あり。）
 <br><br>
 ・【Active】As of July 28, 2024：Modified tutorial code so that RVC WebUI can be used.<br>
-（【使えます】2024年7月28日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました）
+（【使えます】2024年7月28日時点：RVC WebUIが使えるようにチュートリアルコードを修正しました。）
 <br><br>
 ・【Not available】As of July 25, 2024：There was a problem reported by a viewer of the tutorial video who is unable to use RVC WebUI.<br>
-（【使えません】2024年7月25日時点：チュートリアル動画の視聴者の方から「RVC WebUIが使えなくなった」と問題報告あり）
+（【使えません】2024年7月25日時点：チュートリアル動画の視聴者の方から「RVC WebUIが使えなくなった」と問題報告あり。）
 <br><br>
 ・【Active】As of June 29, 2024：Both "Train" and "Model Inference" are possible with Google Colaboratory's billing plan.<br>
-（【使えます】2024年6月29日時点：Google Colaboratoryの課金プランで「学習」「モデル推論」共に可能）
+（【使えます】2024年6月29日時点：Google Colaboratoryの課金プランで「学習」「モデル推論」共に可能。）
