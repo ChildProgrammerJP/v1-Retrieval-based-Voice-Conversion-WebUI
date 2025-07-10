@@ -20,9 +20,13 @@ English version - 英語版：<br>
 June 28, 2024：Repository in use: April 2024 edition<br>
 2024年6月28日（使用中のリポジトリ：2024年4月版）<br><br>
 【Last Updated - 最終更新】<br>
-February 18, 2025<br>
-2025年2月18日<br>
+July 10, 2025<br>
+2025年7月10日<br>
 <br>
+【Status of Operation - 稼働状況】<br>
+Google Colaboratory version is no longer available. Thank you very much.<br>
+（Google Colaboratory版は使えなくなりました。今までありがとうございました。）<br>
+
 【Status of Operation - 稼働状況】<br>
 ・【Defective】As of February 18, 2025：I've modified the code to avoid conflicting dependencies.<br>
 （【不完全】2025年2月18日時点：依存関係が競合しないようにコードを修正しておきました。）<br>
